@@ -1,5 +1,3 @@
-# westminister-shopping-centre 
-
 # Westminster Shopping Centre Management System
 
 ## Project Overview
