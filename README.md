@@ -40,6 +40,33 @@ The Westminster Shopping Centre Management System is designed to facilitate effi
 To run the application, execute the following command:
 ```bash
 mvn spring-boot:run
+```
+Contributing
+
+Contributions are welcome! Please follow these steps:
+
+    Fork the repository.
+    Create a new branch (git checkout -b feature-branch).
+    Commit your changes (git commit -am 'Add new feature').
+    Push to the branch (git push origin feature-branch).
+    Create a new Pull Request.
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+Acknowledgements
+
+    Special thanks to all the contributors.
+    Thank you to the open-source community for providing valuable tools and frameworks.
+
+Contact
+
+For any inquiries or feedback, please contact:
+
+    Email: mohmohamadshazvi@gmail.com
+
+
+This `README.md` provides a clear overview of the project, its structure, setup instructions, and other essential information. You can modify it as per your specific project requirements and details.
 
 
 
