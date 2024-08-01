@@ -17,7 +17,6 @@ The Westminster Shopping Centre Management System is designed to facilitate effi
 ### Prerequisites
 
 - Java Development Kit (JDK) 8 or higher
-- Apache Maven 3.6.3 or higher
 - Git
 
 ### Setup
